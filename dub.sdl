@@ -1,0 +1,8 @@
+name "effect02"
+description "A graphic effect coded in D using SDL"
+authors "Claus D. Volko"
+copyright "Copyright © 2025, Claus D. Volko"
+license "proprietary"
+dependency "bindbc-sdl" version="~>2.1.0"
+versions "SDL_3_4" "SDL_Net_3_0"
+libs "SDL3" "SDL3_net"
